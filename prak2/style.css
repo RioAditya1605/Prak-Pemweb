@@ -1,0 +1,108 @@
+.container {
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.head {
+    padding: 20px;
+    display: flex;
+    background-color: grey;
+    justify-content: start;
+    align-items: center;
+}
+.gambar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.side {
+    color: white;
+    margin-left: 20px;
+    line-height: 0.2;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    background-color: black;
+}
+
+.navbar {
+    color: white;
+    height: 40px;
+}
+
+.menu {
+    list-style: none;
+    padding: 20px;
+}
+
+.tentang {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    line-height: 1.5;
+}
+
+.tentang h2 {
+    color: red;
+}
+
+.tentang p {
+    display: flex;
+    justify-content: center;
+}
+
+.tentang div {
+    display: flex;
+    justify-content: center;
+}
+
+.tentang video {
+    width: 300px;
+    margin-top: 20px;
+}
+
+.pengalaman {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}    
+
+.form {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+.button {
+    width: 100px;
+    height: 50px;
+    color: aquamarine;
+    background-color: grey;
+    margin-top: 20px;
+}
+
+.tambah {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    line-height: 0.1;
+}
+
+table {
+    width: 95%;
+    height: 50px;
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
